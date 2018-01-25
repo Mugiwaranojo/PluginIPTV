@@ -1,0 +1,7 @@
+{ 
+	"putChannel": 	"mets la chaîne (?P<channelName>.+\\s?.*)",
+	"stopTV": 		"arrête la télé",
+	"pauseTV": 		"mets la télé sur pause",
+	"windowModeTV": "mets la télé en mode fenêtre",
+	"fullscreenTV": "mets la télé en plein écran"
+}

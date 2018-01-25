@@ -1,0 +1,16 @@
+{
+	"link": "My IpTV",
+	"linkicon": "th",
+	"type": "List",
+	"itemType": "MediaItem",
+	"controlePanel": {"buttons":[{"type"  :"button",
+								  "itemId":"stop",
+								  "event" :"clientStopIPTVMedia",
+								  "icon"  :"stop"},
+								 {"type"  :"button",
+								  "itemId":"pause",
+								  "event" :"clientPauseIPTVMedia",
+								  "icon"  :"pause"}]
+					},
+	"list": [] 
+}
